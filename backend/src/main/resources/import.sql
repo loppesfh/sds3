@@ -1,0 +1,13 @@
+insert into tb_client(name, cpf, income, birth_date, children) values('RENAN CALHEIROS', '12312312315', 25630.38, TIMESTAMP WITH TIME ZONE '1955-09-16T03:00:00Z',2);
+insert into tb_client(name, cpf, income, birth_date, children) values('OTTO ALENCAR', '46798713555', 19630.21, TIMESTAMP WITH TIME ZONE '1947-08-28T03:00:00Z',3);
+insert into tb_client(name, cpf, income, birth_date, children) values('TASSO JEREISSATE', '64646461177', 18630.35, TIMESTAMP WITH TIME ZONE '1965-12-13T03:00:00Z',1);
+insert into tb_client(name, cpf, income, birth_date, children) values('HUMBERTO COSTA', '79794643388', 21630.43, TIMESTAMP WITH TIME ZONE '1970-08-27T03:00:00Z',2);
+insert into tb_client(name, cpf, income, birth_date, children) values('RANDOLFE RODRIGUES', '46464398533', 22630.44, TIMESTAMP WITH TIME ZONE '1966-04-26T03:00:00Z',1);
+insert into tb_client(name, cpf, income, birth_date, children) values('CIRO NOGUEIRA', '06464664999', 15454.54, TIMESTAMP WITH TIME ZONE '1968-09-08T03:00:00Z',3);
+insert into tb_client(name, cpf, income, birth_date, children) values('JORGE MELLO', '69885254111', 16545.55, TIMESTAMP WITH TIME ZONE '1970-01-28T03:00:00Z',4);
+insert into tb_client(name, cpf, income, birth_date, children) values('EDUARDO GIRAO', '55566464222', 19554.40, TIMESTAMP WITH TIME ZONE '1973-07-12T03:00:00Z',2);
+insert into tb_client(name, cpf, income, birth_date, children) values('MARCOS ROGERIO', '64646465555', 23454.80, TIMESTAMP WITH TIME ZONE '1971-05-23T03:00:00Z',3);
+insert into tb_client(name, cpf, income, birth_date, children) values('SIMONE TEBET', '46464658566', 22787.70, TIMESTAMP WITH TIME ZONE '1975-10-15T03:00:00Z',1);
+insert into tb_client(name, cpf, income, birth_date, children) values('LEILA BARROS', '64646464888', 25444.85, TIMESTAMP WITH TIME ZONE '1977-11-20T03:00:00Z',2);
+insert into tb_client(name, cpf, income, birth_date, children) values('EDUARDO BRAGA', '64678796633', 24545.95, TIMESTAMP WITH TIME ZONE '1963-03-9T03:00:00Z',1);
+insert into tb_client(name, cpf, income, birth_date, children) values('OMAR AZIZ', '96357415444', 18395.48, TIMESTAMP WITH TIME ZONE '1961-07-14T03:00:00Z',3);
